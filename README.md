@@ -76,3 +76,7 @@ Download or save the index.html file.
 Open it with any modern browser (Chrome, Edge, Firefox, etc.).
 
 Start adding tasks — everything works offline too!
+
+Screenshots:
+* https://github.com/chiru04s/TODO/blob/main/Screenshot%20(109).png
+* 
