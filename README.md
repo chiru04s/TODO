@@ -79,4 +79,4 @@ Start adding tasks — everything works offline too!
 
 Screenshots:
 * https://github.com/chiru04s/TODO/blob/main/Screenshot%20(109).png
-* 
+* https://github.com/chiru04s/TODO/blob/main/Screenshot%202025-11-18%20000247.png
